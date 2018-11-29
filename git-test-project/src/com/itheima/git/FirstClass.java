@@ -10,5 +10,6 @@ public class FirstClass {
     public void tste(){
         int i = 10;
         int b = i +5;
+        System.out.println(b);
     }
 }
