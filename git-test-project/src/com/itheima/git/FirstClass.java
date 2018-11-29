@@ -7,4 +7,8 @@ public class FirstClass {
         System.out.println("使用idea添加到git本地仓库");
         System.out.println("使用idea添加到git本地仓库");
     }
+    public void tste(){
+        int i = 10;
+        int b = i +5;
+    }
 }
