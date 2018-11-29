@@ -12,5 +12,6 @@ public class FirstClass {
         int b = i +5;
         System.out.println(b);
         System.out.println(b);
+        System.out.println(b);
     }
 }
